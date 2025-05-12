@@ -14,9 +14,12 @@ Bem-vindo à **Calculadora em C++**! Este projeto permite realizar operações m
 1. **Compile o programa** usando um compilador C++:
    ```bash
    g++ calculadora.cpp -o calculadora
-2. Execute o programa no terminal ultilizando este comando: ./calculadora
+2. Execute o programa no terminal ultilizando este comando:
+``````bash
+./calculadora
+``````
 3. Siga as instruções fornecidas pelo programa para inserir números e escolher uma operação.
-4. Decida se quer realizar outra operação ou encerrar o programa.
+5. Decida se quer realizar outra operação ou encerrar o programa.
 
 ⚠ Observações
 Digite apenas números nos campos de entrada.
